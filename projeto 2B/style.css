@@ -3,15 +3,19 @@
 :root {
 
     --rosa: hotpink;
-    --azul: blue;
+    --azul: rgb(94, 184, 226);
     --verde-claro: #00FF00;
-    --marrom-claro: #A0522D;
+    --marrom-claro: #2d8fa0;
 
 }
 
 .titulo-principal {
-    color: var(--marrom-claro);
+    color: var(--azul);
     font-family: "Dancing Script", cursive;
     text-align: center;
     font-size: 50px;
+}
+body{
+    background-image: url(background-7269223_1920.jpg);
+    background-size: 150%;
 }
