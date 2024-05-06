@@ -16,6 +16,14 @@
     font-size: 50px;
 }
 body{
-    background-image: url(background-7269223_1920.jpg);
+    background-image: url(corda.jpg);
     background-size: 150%;
+}
+
+.paragrafo{
+    color: white;
+}
+
+.topicos{
+    color: white;
 }
